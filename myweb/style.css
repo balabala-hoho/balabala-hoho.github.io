@@ -1,0 +1,46 @@
+
+
+html, body{
+  font-family: sans-serif;
+  color: #222;
+}
+
+.carousel img{
+  width:100%
+  height:100%
+}
+
+.btn-primary{
+  background-color: #6648b1;
+  border: 1px solid #6648b1;
+}
+
+.btn-primary{
+  background-color: #563d7c;
+  border: 1px solid #563d7c;
+}
+.model{
+  width:100%;
+  margin-bottom: 2rem;
+}
+.social {
+  background-color: #6648b1;
+  font-size: 3rem;
+  padding: 3rem;
+}
+
+figure{
+  position:relative;
+  width:100%;
+  height:60%;
+  margin:0;
+}
+
+#fixed{
+  background-image: url("img/lianglie.jpg");
+  height:600px;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
